@@ -8,23 +8,23 @@
 
 ### 一 Java 基础语法部分
 
-​	[第1天-java入门](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5/%E7%AC%AC1%E5%A4%A9-java%E5%85%A5%E9%97%A8)
+​	[第01天-java入门](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5/%E7%AC%AC01%E5%A4%A9-java%E5%85%A5%E9%97%A8)
 
-​	[第2天-java基本语法](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5/%E7%AC%AC2%E5%A4%A9-java%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95)
+​	[第02天-java基本语法](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5/%E7%AC%AC02%E5%A4%A9-java%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95)
 
-​	[第3天-选择语句](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5/%E7%AC%AC3%E5%A4%A9-%E9%80%89%E6%8B%A9%E8%AF%AD%E5%8F%A5)
+​	[第03天-选择语句](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5/%E7%AC%AC03%E5%A4%A9-%E9%80%89%E6%8B%A9%E8%AF%AD%E5%8F%A5)
 
-​	[第4天-循环语句](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5/%E7%AC%AC4%E5%A4%A9-%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5)
+​	[第04天-循环语句](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5/%E7%AC%AC04%E5%A4%A9-%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5)
 
-​	[第5天-方法](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5/%E7%AC%AC5%E5%A4%A9-%E6%96%B9%E6%B3%95)
+​	[第05天-方法](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5/%E7%AC%AC05%E5%A4%A9-%E6%96%B9%E6%B3%95)
 
-​	[第6天-面向对象](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5/%E7%AC%AC6%E5%A4%A9-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1)
+​	[第06天-面向对象](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5/%E7%AC%AC06%E5%A4%A9-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1)
 
-​	[第7天-封装继承](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5/%E7%AC%AC7%E5%A4%A9-%E5%B0%81%E8%A3%85%E7%BB%A7%E6%89%BF)
+​	[第07天-封装继承](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5/%E7%AC%AC07%E5%A4%A9-%E5%B0%81%E8%A3%85%E7%BB%A7%E6%89%BF)
 
-​	[第8天-对象转型和多态](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5/%E7%AC%AC8%E5%A4%A9-%E5%AF%B9%E8%B1%A1%E8%BD%AC%E5%9E%8B%E5%92%8C%E5%A4%9A%E6%80%81)
+​	[第08天-对象转型和多态](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5/%E7%AC%AC08%E5%A4%A9-%E5%AF%B9%E8%B1%A1%E8%BD%AC%E5%9E%8B%E5%92%8C%E5%A4%9A%E6%80%81)
 
-​	[第9天-抽象类和接口](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5/%E7%AC%AC9%E5%A4%A9-%E6%8A%BD%E8%B1%A1%E7%B1%BB%E5%92%8C%E6%8E%A5%E5%8F%A3)
+​	[第09天-抽象类和接口](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5/%E7%AC%AC09%E5%A4%A9-%E6%8A%BD%E8%B1%A1%E7%B1%BB%E5%92%8C%E6%8E%A5%E5%8F%A3)
 
 ​	[第10天-数组](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5/%E7%AC%AC10%E5%A4%A9-%E6%95%B0%E7%BB%84)
 
