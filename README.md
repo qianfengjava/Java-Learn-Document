@@ -56,6 +56,12 @@
 
 ### 二 Java Web 基础部分
 
+​	[第01天MySQL基础讲解](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5/%E7%AC%AC01%E5%A4%A9MySQL%E5%9F%BA%E7%A1%80%E8%AE%B2%E8%A7%A3)
+
+​	[第02天_MySQL约束和多表联合查询](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5/%E7%AC%AC02%E5%A4%A9_MySQL%E7%BA%A6%E6%9D%9F%E5%92%8C%E5%A4%9A%E8%A1%A8%E8%81%94%E5%90%88%E6%9F%A5%E8%AF%A2)
+
+
+
 ### 三 常见 Java 框架部分
 
 ### 四 分布式先关知识点部分
