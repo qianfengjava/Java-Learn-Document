@@ -64,6 +64,10 @@
 
 ​	[第04天_JDBC高级使用和事务](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5/%E7%AC%AC04%E5%A4%A9_JDBC%E9%AB%98%E7%BA%A7%E4%BD%BF%E7%94%A8%E5%92%8C%E4%BA%8B%E5%8A%A1)
 
+​	[第05天HTML](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5/%E7%AC%AC05%E5%A4%A9HTML)
+
+​	[第06天_CSS样式讲解](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5/%E7%AC%AC06%E5%A4%A9_CSS%E6%A0%B7%E5%BC%8F%E8%AE%B2%E8%A7%A3)
+
 ​	
 
 ### 三 常见 Java 框架部分
