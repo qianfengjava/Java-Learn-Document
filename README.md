@@ -68,6 +68,8 @@
 
 ​	[第06天_CSS样式讲解](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5/%E7%AC%AC06%E5%A4%A9_CSS%E6%A0%B7%E5%BC%8F%E8%AE%B2%E8%A7%A3)
 
+​	[第07天_JavaScript基础使用](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5/%E7%AC%AC07%E5%A4%A9_JavaScript%E5%9F%BA%E7%A1%80%E4%BD%BF%E7%94%A8)
+
 ​	
 
 ### 三 常见 Java 框架部分
