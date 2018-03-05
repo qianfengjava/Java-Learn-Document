@@ -70,7 +70,9 @@
 
 ​	[第07天_JavaScript基础使用](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5/%E7%AC%AC07%E5%A4%A9_JavaScript%E5%9F%BA%E7%A1%80%E4%BD%BF%E7%94%A8)
 
-​	
+​	[第08天_JavaScript的DOM和BOM](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5/%E7%AC%AC08%E5%A4%A9_JavaScript%E7%9A%84DOM%E5%92%8CBOM)
+
+​	[第09天_Web项目和Tomcat搭建和XML解析](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5/%E7%AC%AC09%E5%A4%A9_Web%E9%A1%B9%E7%9B%AE%E5%92%8CTomcat%E6%90%AD%E5%BB%BA%E5%92%8CXML%E8%A7%A3%E6%9E%90)
 
 ### 三 常见 Java 框架部分
 
