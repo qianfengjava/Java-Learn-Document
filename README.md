@@ -74,6 +74,12 @@
 
 ​	[第09天_Web项目和Tomcat搭建和XML解析](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5/%E7%AC%AC09%E5%A4%A9_Web%E9%A1%B9%E7%9B%AE%E5%92%8CTomcat%E6%90%AD%E5%BB%BA%E5%92%8CXML%E8%A7%A3%E6%9E%90)
 
+​	[第10天_Servlet的使用和跳转](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5/%E7%AC%AC10%E5%A4%A9_Servlet%E7%9A%84%E4%BD%BF%E7%94%A8%E5%92%8C%E8%B7%B3%E8%BD%AC)
+
+​	[第11天_Request和Response](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5/%E7%AC%AC11%E5%A4%A9_Request%E5%92%8CResponse)
+
+​	
+
 ### 三 常见 Java 框架部分
 
 ### 四 分布式先关知识点部分
