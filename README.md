@@ -98,6 +98,22 @@
 
 ### 三 常见 Java 框架部分
 
+####3.1 maven
+
+####	[maven](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/maven)
+
+#### 3.2 hibernate
+
+​	[第一天 基本使用](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/hibernate/%E7%AC%AC%E4%B8%80%E5%A4%A9%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
+
+​	[第二天 一级缓存](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/hibernate/%E7%AC%AC%E4%BA%8C%E5%A4%A9%20%E4%B8%80%E7%BA%A7%E7%BC%93%E5%AD%98)
+
+​	[第三天 表关系](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/hibernate/%E7%AC%AC%E4%B8%89%E5%A4%A9%20%E8%A1%A8%E5%85%B3%E7%B3%BB)
+
+​	[第四天 查询优化](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/hibernate/%E7%AC%AC%E5%9B%9B%E5%A4%A9%20%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96)
+
+​	[第五天 整合 jpa](https://github.com/qianfengjava/Java-Learn-Document/tree/master/%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/hibernate/%E7%AC%AC%E4%BA%94%E5%A4%A9%20%E6%95%B4%E5%90%88%20jpa)
+
 ### 四 分布式先关知识点部分
 
 ### 五 其他知识点部分
